@@ -1,0 +1,6 @@
+[submodule "NFC-receiver"]
+	path = NFC-receiver
+	url = https://github.com/pwnedpixel/TapATM-NFCReceiver
+[submodule "NFC-client"]
+	path = NFC-client
+	url = https://github.com/iYung/nfc-for-atms
